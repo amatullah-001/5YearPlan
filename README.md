@@ -35,19 +35,26 @@ Each period exists because the next period depends on what it builds.
 
 ## Architecture layers
 
+The original dependency architecture has eight core layers:
+
 1. Destination
 2. Required capabilities
 3. Competency dependencies
-4. Qualification and credibility
-5. Life structure
-6. Evidence of competence
-7. Gates
-8. Reverse engineering
-9. Year-by-year architecture
-10. Feedback and adaptation
-11. Risks and maintenance
+4. Qualification and credibility dependencies
+5. Life-structure dependencies
+6. Resource dependencies
+7. Maintenance dependencies
+8. Feedback and adaptation
 
-The repository also contains the refined integrative-health direction, knowledge/evidence map, dependency chain, and prerequisite branches that clarify how the architecture should be interpreted.
+The repository then adds the operational views needed to work with those layers:
+
+- evidence of competence
+- gates
+- reverse engineering
+- year-by-year architecture
+- risks and stress testing
+- prerequisite branches
+- the refined integrative-health direction and knowledge/evidence map
 
 ## Core rule
 
