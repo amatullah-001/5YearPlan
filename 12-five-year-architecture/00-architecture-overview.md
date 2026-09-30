@@ -5,16 +5,16 @@ This is the operational architecture built from the dependency map. It answers w
 ## Time structure
 
 ### October–December 2026
-Preparation and positioning. These three months are not counted as Year 1, but they are active groundwork.
+Preparation and positioning. These three months are active groundwork.
 
 ### 2027
 Foundation and deliberate capability formation.
 
 ### 2028
-Application, qualification progression, and portfolio formation.
+Application, qualification progression, early professional exposure, and portfolio formation.
 
 ### 2029
-Evidence-led specialization and professional direction.
+Evidence-led specialization, scope clarification, and professional direction.
 
 ### 2030
 Substantial remote work, collaboration, and professional establishment.
@@ -22,14 +22,24 @@ Substantial remote work, collaboration, and professional establishment.
 ### 2031
 Sustainable professional structure and consolidation.
 
+## What is at the centre
+
+The centre is not health education, digital work, nutrition, or naturopathy by itself.
+
+The centre is the development of a health capability: understanding people's health problems in context and contributing to useful, safe, appropriately scoped care or interventions.
+
+Nursing, nutrition, natural/traditional health knowledge, Tibb Nabawi, evidence, research, communication, and digital delivery are domains or capabilities that may support that centre at different depths.
+
+The final professional label is intentionally not fixed.
+
 ## The dependency chain
 
 **2026 groundwork**
 → **2027 capability foundation**
-→ **2028 applied competence + qualification progress**
-→ **2029 evidence-led specialization**
-→ **2030 substantial real-world work**
-→ **2031 sustainable remote professional structure**
+→ **2028 applied competence + qualification progress + real-world exposure**
+→ **2029 evidence-led specialization + scope clarity**
+→ **2030 substantial real-world work + remote professional reliability**
+→ **2031 sustainable professional structure**
 
 The years are not isolated boxes. Each year exists because the next year needs something from it.
 
@@ -40,8 +50,11 @@ These are not separate annual projects:
 - Nursing and health knowledge
 - Evidence and research literacy
 - Nutrition knowledge
+- Natural/traditional health knowledge
+- Tibb Nabawi as distinct Islamic learning
+- Whole-person reasoning and scope judgment
 - Translation and communication
-- Digital delivery/product literacy
+- Appropriate digital delivery
 - Professional reliability and remote collaboration
 - Evidence of competence
 - Capacity to keep professional work inside the intended life
@@ -50,10 +63,11 @@ These are not separate annual projects:
 
 Do not freeze these now:
 
-- exact nutrition specialization
+- exact deep specialization
 - exact job title
-- employer/client model
+- employer/client/collaboration model
 - postgraduate programme
+- formal naturopathic or other complementary-health training
 - software stack
 - exact products
 - exact collaborators
@@ -61,7 +75,7 @@ Do not freeze these now:
 - exact income model
 - exact project list
 
-They become clearer through evidence.
+They become clearer through evidence, scope requirements, experience, and life fit.
 
 ## The architecture test
 
@@ -73,3 +87,4 @@ At every major review, ask:
 4. What does the next period require that is still missing?
 5. What should stop because it no longer serves the dependency chain?
 6. Does the professional structure still fit the life it is meant to fit inside?
+7. Am I confusing interest with qualification, evidence, or scope?
