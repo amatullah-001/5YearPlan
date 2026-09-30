@@ -6,15 +6,15 @@ This repository is the working source of truth for the user's 2026 preparation a
 
 Build a professional capability that can live inside the life the user actually wants: a Muslim woman preparing for marriage and motherhood, with a remote-only professional structure.
 
-Working professional direction:
+Working direction:
 
-> Using evidence-based health and nutrition knowledge to create clear, engaging educational experiences and interventions that can improve people's physical, mental, and social well-being.
+> Developing the knowledge, clinical grounding, evidence judgment and practical capability to understand and address health problems through Nursing, nutrition and natural/traditional health knowledge, and to translate that capability into useful care, interventions and experiences that can reach people remotely and remain compatible with the life Allah has given me.
+
+This is a working direction, not a premature commitment to a job title or specialty.
 
 Core skill:
 
 > translating complex information into clear useful engaging and understandable actionable experience
-
-This is a working direction, not a premature commitment to a job title or specialty.
 
 ## Time horizon
 
@@ -46,6 +46,8 @@ Each period exists because the next period depends on what it builds.
 9. Year-by-year architecture
 10. Feedback and adaptation
 11. Risks and maintenance
+
+The repository also contains the refined integrative-health direction, knowledge/evidence map, dependency chain, and prerequisite branches that clarify how the architecture should be interpreted.
 
 ## Core rule
 
